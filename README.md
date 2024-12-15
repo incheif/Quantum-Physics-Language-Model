@@ -105,7 +105,8 @@ quantum-physics-research-analysis/
 Relevant screenshots of the application interface here.
 
 ```markdown
-[![](images/image1.png)](https://github.com/incheif/Quantum-Physics-Language-Model/blob/6c421174c28da106a81c69a3e54eaf8af0aab6c4/images/image1.png)
+![Application Screenshot](images/image1.png)
+
 [![](images/image2.png)](https://github.com/incheif/Quantum-Physics-Language-Model/blob/2c4f6335ad8775490c569b9e316116618bc4ec5d/images/image2.png)
 [![](images/image3.png)](https://github.com/incheif/Quantum-Physics-Language-Model/blob/2c4f6335ad8775490c569b9e316116618bc4ec5d/images/image3.png)
 ```
