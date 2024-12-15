@@ -1,3 +1,6 @@
+
+---
+
 # Quantum Physics Language Model
 
 This project leverages advanced language model capabilities to facilitate the analysis of quantum physics research papers. Users can interact with the system by asking questions, and the model generates responses both with and without context from uploaded documents. This application utilizes **LangChain**, **Groq**, and **Google Generative AI Embeddings** to streamline research and analysis workflows.
@@ -63,7 +66,7 @@ Save your research papers as PDFs in a folder named `data` at the root of the pr
 quantum-physics-research-analysis/
 ├── app.py               # Main application file
 ├── data/                # Directory for storing research papers (PDF format)
-├── images/         # Directory for storing application screenshots
+├── images/              # Directory for storing application screenshots
 ├── README.md            # Documentation for the project
 ├── requirements.txt     # Python dependencies
 ```
@@ -102,14 +105,13 @@ quantum-physics-research-analysis/
 
 ## Screenshots
 
-Relevant screenshots of the application interface here.
+Here are some screenshots of the application:
 
-```markdown
-![Application Screenshot](images/image1.png)
+![Screenshot 1](images/image1.png)
 
-[![](images/image2.png)](https://github.com/incheif/Quantum-Physics-Language-Model/blob/2c4f6335ad8775490c569b9e316116618bc4ec5d/images/image2.png)
-[![](images/image3.png)](https://github.com/incheif/Quantum-Physics-Language-Model/blob/2c4f6335ad8775490c569b9e316116618bc4ec5d/images/image3.png)
-```
+![Screenshot 2](images/image2.png)
+
+![Screenshot 3](images/image3.png)
 
 ---
 
@@ -133,3 +135,6 @@ For questions or support, please contact:
 
 ---
 
+### Notes:
+- Place your images in the `images/` folder as `image1.png`, `image2.png`, etc.
+- Verify that your markdown viewer supports local image paths for testing locally. If sharing on GitHub, commit the images along with the README file.
