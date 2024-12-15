@@ -57,37 +57,13 @@ Save your research papers as PDFs in a folder named `data` at the root of the pr
 
 ---
 
-## Usage
-
-1. **Run the Application**:
-   Launch the Streamlit app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-2. **Initialize Embedding**:
-   - Click the **"Initialize Document Embedding"** button to process and store embeddings of your uploaded documents.
-
-3. **Ask Questions**:
-   - Enter a question in the input box and click submit to receive answers with and without document context.
-
-4. **View Results**:
-   - The application displays context-based responses alongside the relevant document excerpts.
-   - General responses (without context) are also provided.
-
-5. **Upload Screenshots**:
-   - Add screenshots of the application interface for reference in the `screenshots/` directory and mention them in the relevant sections below.
-
----
-
 ## File Structure
 
 ```plaintext
 quantum-physics-research-analysis/
 ├── app.py               # Main application file
 ├── data/                # Directory for storing research papers (PDF format)
-├── screenshots/         # Directory for storing application screenshots
+├── images/         # Directory for storing application screenshots
 ├── README.md            # Documentation for the project
 ├── requirements.txt     # Python dependencies
 ```
@@ -126,7 +102,7 @@ quantum-physics-research-analysis/
 
 ## Screenshots
 
-Include relevant screenshots of the application interface here. Place all screenshots in the `screenshots/` directory and reference them using markdown syntax:
+Include relevant screenshots of the application interface here.
 
 ```markdown
 ![Screenshot Description](screenshots/example.png)
