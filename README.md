@@ -105,7 +105,7 @@ quantum-physics-research-analysis/
 Relevant screenshots of the application interface here.
 
 ```markdown
-![](images/image1.png)
+images/image1.png
 ![](images/image2.png)
 ![](images/image3.png)
 ```
