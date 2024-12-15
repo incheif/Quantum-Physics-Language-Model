@@ -1,7 +1,7 @@
 
 # Quantum Physics Language Model
 
-This project leverages advanced language model capabilities to facilitate the analysis of quantum physics research papers. Users can interact with the system by asking questions, and the model generates responses both with and without context from uploaded documents. This application utilizes **LangChain**, **Groq**, and **Google Generative AI Embeddings** to streamline research and analysis workflows.
+This project leverages language model capabilities to facilitate the analysis of quantum physics research papers. Users can interact with the system by asking questions, and the model generates responses both with and without context from uploaded documents. This application utilizes **LangChain**, **Groq**, and **Google Generative AI Embeddings** to streamline research and analysis workflows.
 
 ## Features
 
