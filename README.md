@@ -102,10 +102,12 @@ quantum-physics-research-analysis/
 
 ## Screenshots
 
-Include relevant screenshots of the application interface here.
+Relevant screenshots of the application interface here.
 
 ```markdown
-![Screenshot Description](screenshots/example.png)
+(images/iamge1.png)
+(images/iamge2.png)
+(images/iamge3.png)
 ```
 
 ---
