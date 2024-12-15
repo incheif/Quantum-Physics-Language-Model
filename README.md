@@ -109,7 +109,6 @@ Here are some screenshots of the application:
 
 ![Screenshot 1](images/image1.png)
 
-![Screenshot 2](images/image2.png)
 
 ![Screenshot 3](images/image3.png)
 
@@ -127,14 +126,3 @@ Here are some screenshots of the application:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-
-## Contact
-For questions or support, please contact:
-- **Author**: [Your Name]
-- **Email**: [Your Email Address]
-
----
-
-### Notes:
-- Place your images in the `images/` folder as `image1.png`, `image2.png`, etc.
-- Verify that your markdown viewer supports local image paths for testing locally. If sharing on GitHub, commit the images along with the README file.
