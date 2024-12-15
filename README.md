@@ -48,13 +48,6 @@ export GOOGLE_API_KEY="your_google_api_key"
 export groq_api_key="your_groq_api_key"
 ```
 
-Alternatively, directly modify the keys in the `os.environ` section of the code:
-
-```python
-os.environ["GOOGLE_API_KEY"] = "your_google_api_key"
-os.environ["groq_api_key"] = "your_groq_api_key"
-```
-
 ### Data Preparation
 Save your research papers as PDFs in a folder named `data` at the root of the project directory.
 
